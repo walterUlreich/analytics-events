@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  padding: 10px 20px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.2em;
+}
+
+img {
+  margin: 20px auto;
+  display: inline-block;
+  text-align: center;
+}
+
+a {
+  position: relative;
+  top: 80px;
+  margin-right: 20px;
+}
+
+textarea {
+  padding: 5px 0 0 5px;
+}
+
+a {
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 60px;
+  cursor: pointer;
+}
